@@ -1,7 +1,45 @@
 ---
-title: Welcome to my blog
+title: Yuelong Li
 ---
 
-The beginning of a setup
+---
+layout: default
+---
 
+<!-- About Me Section -->
+<div class="container">
+  <section id="about">
+    <h1>About Me</h1>
+    {% include about.md %}
+  </section>
 
+  <!-- Portfolio Section -->
+  <section id="portfolio">
+    <h1>Portfolio</h1>
+    {% for post in site.categories.portfolio %}
+      <div class="portfolio-item">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url }}">Read More</a>
+      </div>
+    {% endfor %}
+  </section>
+
+  <!-- Blog Section -->
+  <section id="blog">
+    <h1>Blog</h1>
+    {% for post in site.posts limit:5 %}
+      <div class="blog-post">
+        <h2>{{ post.title }}</h2>
+        <p>{{ post.excerpt }}</p>
+        <a href="{{ post.url }}">Read More</a>
+      </div>
+    {% endfor %}
+  </section>
+
+  <!-- Contact Information Section -->
+  <section id="contact">
+    <h1>Contact Me</h1>
+    {% include contact.md %}
+  </section>
+</div>
