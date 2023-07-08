@@ -13,7 +13,7 @@ layout: default
   <!-- Portfolio Section -->
   <section id="portfolio">
     <h1>Portfolio</h1>
-    {% for post in site.collections.portfolio %}
+    {% for post in site.portfolio %}
       <div class="portfolio-item">
         <h2>{{ post.title }}</h2>
         <p>{{ post.excerpt }}</p>
