@@ -1,5 +1,4 @@
 ---
-title: Yuelong Li
 layout: default
 ---
 
