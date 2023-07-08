@@ -14,11 +14,11 @@ layout: default
   <section id="portfolio">
     <h1>Portfolio</h1>
     {% for post in site.portfolio %}
-      <div class="portfolio-item">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.excerpt }}</p>
-        <a href="{{ post.url }}">Read More</a>
-      </div>
+    <div class="portfolio-item">
+        <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
+        <img src="{{ item.image }}" alt="{{ item.title }}">
+        <p>{{ item.content | strip_html | truncate:160 }}</p>
+    </div>
     {% endfor %}
   </section>
 
