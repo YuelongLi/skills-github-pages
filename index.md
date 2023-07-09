@@ -9,6 +9,13 @@ layout: default
     {% include about.md %}
   </section>
 
+
+  <!-- Papers Section -->
+  <section id="papers">
+    <h1>Papers</h1>
+    [download pdf](https://belovanna.github.io/assets/mydoc.pdf)
+  </section>
+
   <!-- Portfolio Section -->
   <section id="portfolio">
     <h1>Portfolio</h1>
