@@ -13,7 +13,13 @@ layout: default
   <!-- Papers Section -->
   <section id="papers">
     <h1>Papers</h1>
-    [download pdf](https://belovanna.github.io/assets/mydoc.pdf)
+    
+1. [Spontaneous Synchronization in Cellular Circadian Clocks](assets/pdf/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf)
+    
+2. [Adverserial Image Recognition.pdf](assets/pdf/Adverserial Image Recognition.pdf)
+3. 
+4. 
+5. 
   </section>
 
   <!-- Portfolio Section -->
