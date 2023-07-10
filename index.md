@@ -13,8 +13,8 @@ layout: default
   <div id="papers">
     <h1>Papers</h1>
   <ul>
-    <li><a href="assets/pdf/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf">Spontaneous Synchronization in Cellular Circadian Clocks</a></li>
-    <li><a href="assets/pdf/Adverserial_Image_Recognition.pdf">Adverserial Image Recognition.pdf</a></li>
+    <li><a href="assets/papers/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf">Spontaneous Synchronization in Cellular Circadian Clocks</a></li>
+    <li><a href="assets/papers/Adverserial_Image_Recognition.pdf">Adverserial Image Recognition.pdf</a></li>
     <!-- add more papers here -->
   </ul>
   </div>
