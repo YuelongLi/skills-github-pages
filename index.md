@@ -4,14 +4,13 @@ layout: default
 
 <!-- About Me Section -->
 <div class="container">
-  <section id="about">
+  <div id="about">
     <h1>About Me</h1>
     {% include about.md %}
-  </section>
-
+  </div>
 
   <!-- Papers Section -->
-  <section id="papers">
+  <div id="papers">
     <h1>Papers</h1>
     
 1. [Spontaneous Synchronization in Cellular Circadian Clocks](assets/pdf/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf)
@@ -19,10 +18,10 @@ layout: default
 3. 
 4. 
 5. 
-  </section>
+  </div>
 
   <!-- Portfolio Section -->
-  <section id="portfolio">
+  <div id="portfolio">
     <h1>Portfolio</h1>
     {% for item in site.portfolio %}
     <div class="portfolio-item">
@@ -31,10 +30,10 @@ layout: default
         <p>{{ item.content | strip_html | truncate:160 }}</p>
     </div>
     {% endfor %}
-  </section>
+  </div>
 
   <!-- Blog Section -->
-  <section id="blog">
+  <div id="blog">
     <h1>Blog</h1>
     {% for post in site.posts limit:5 %}
       <div class="blog-post">
@@ -43,11 +42,11 @@ layout: default
         <a href="{{ post.url }}">Read More</a>
       </div>
     {% endfor %}
-  </section>
+  </div>
 
   <!-- Contact Information Section -->
-  <section id="contact">
+  <div id="contact">
     <h1>Contact Me</h1>
     {% include contact.md %}
-  </section>
+  </div>
 </div>
