@@ -22,7 +22,8 @@ layout: default
   <!-- Portfolio Section -->
   <div id="portfolio">
     <h1>Portfolio</h1>
-    {% for item in site.portfolio %}
+      {% assign sorted_portfolio = site.portfolio | sort:"order" %}
+      {% for item in sorted_portfolio %}
     <div class="portfolio-item">
         <h2><a href="{{ item.url }}">{{ item.title }}</a></h2>
         <img src="{{ item.image }}" alt="{{ item.title }}">
