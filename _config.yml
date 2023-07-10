@@ -5,5 +5,5 @@ author: Yuelong Li
 collections:
   portfolio:
     output: true
-    permalink: /portfolio/:path/
+    permalink: /blog/portfolio/:path/
 
