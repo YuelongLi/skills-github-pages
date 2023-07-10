@@ -12,12 +12,11 @@ layout: default
   <!-- Papers Section -->
   <div id="papers">
     <h1>Papers</h1>
-    
-1. [Spontaneous Synchronization in Cellular Circadian Clocks](assets/pdf/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf)
-2. [Adverserial Image Recognition.pdf](assets/pdf/Adverserial Image Recognition.pdf)
-3. 
-4. 
-5. 
+  <ul>
+    <li><a href="assets/pdf/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf">Spontaneous Synchronization in Cellular Circadian Clocks</a></li>
+    <li><a href="assets/pdf/Adverserial_Image_Recognition.pdf">Adverserial Image Recognition.pdf</a></li>
+    <!-- add more papers here -->
+  </ul>
   </div>
 
   <!-- Portfolio Section -->
