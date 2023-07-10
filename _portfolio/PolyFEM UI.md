@@ -1,7 +1,7 @@
 ---
 layout: portfolio
 title: PolyFEM UI
-image: assets/images/PolyFEM UI.png
+image: assets/images/PolyFEM UI2.png
 order: 3
 ---
 
