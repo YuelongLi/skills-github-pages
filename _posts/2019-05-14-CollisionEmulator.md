@@ -3,7 +3,7 @@ title: "Collision Emulator with dynamic frame caching"
 date: 2019-05-14
 ---
 
-In my project, [CollisionEmulator](https://github.com/YuelongLi/CollisionEmulator), I've meticulously crafted a mechanism to emulate collisions between blocks. One of the standout features is the dynamic frame caching mechanism. Let's dive into the equations and algorithms that power this emulator.
+In my project, [CollisionEmulator](https://github.com/YuelongLi/CollisionEmulator), I've created a mechanism to emulate collisions between blocks. One of the standout features is the dynamic frame caching mechanism. Let's dive into the equations and algorithms that power this emulator.
 
 ### Collision Dynamics: The Math Behind the Movement
 
