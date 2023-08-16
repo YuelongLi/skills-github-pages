@@ -8,12 +8,13 @@ layout: default
     <h1>About Me</h1>
     {% include about.md %}
   </div>
-
+  <br/>
   <div id="blog">
-    <h1>Blog</h1>
+    <h1>Blogs</h1>
     For my <b>CS, Math</b>, and <b>Physics</b> blogs and random inspirations, you can find them at <a href='https://www.cloudnest.org/blog/' style='color:#123ac4'>cloudnest.org</a>. 
   </div>
 
+  <br/>
   <!-- Papers Section -->
   <div id="papers">
     <h1>Papers</h1>
