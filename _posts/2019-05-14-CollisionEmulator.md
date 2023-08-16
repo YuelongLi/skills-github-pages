@@ -37,6 +37,3 @@ Where \( v_a \) and \( v_b \) are the velocities of blocks a and b, respectively
 
 The `getFrame` function is pivotal in ensuring a seamless simulation experience. It uses the above equations to dynamically compute and cache the positions of all blocks at a specified timestamp. This dynamic approach, combined with the meticulous collision handling, results in a smooth and accurate simulation.
 
-### Conclusion
-
-The CollisionEmulator is a testament to the intricate blend of physics and coding. The underlying equations and algorithms ensure its accuracy and efficiency. As I venture into the professional world, this project stands as a beacon of my dedication, proficiency, and passion for problem-solving and innovation.
