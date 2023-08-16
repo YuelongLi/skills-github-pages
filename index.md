@@ -8,6 +8,7 @@ layout: default
     <h1>About Me</h1>
     {% include about.md %}
   </div>
+  
   <br/>
   <div id="blog">
     <h1>Blogs</h1>
