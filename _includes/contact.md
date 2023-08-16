@@ -1,7 +1,7 @@
-email: yuelong[dot]edu[at]gmail[dot]com
+Email: <a>yuelong[dot]edu[at]gmail[dot]com</a> <br/>
 
-linkedIn: <a href='https://www.linkedin.com/in/yuelong-li'>https://www.linkedin.com/in/yuelong-li</a>
+LinkedIn: <a href='https://www.linkedin.com/in/yuelong-li'>https://www.linkedin.com/in/yuelong-li</a> <br/>
 
-github: <a href='https://github.com/YuelongLi'>https://github.com/YuelongLi</a>
+Github: <a href='https://github.com/YuelongLi'>https://github.com/YuelongLi</a> <br/>
 
-blog page: <a href='https://www.cloudnest.org/blog/'>https://www.cloudnest.org/blog/</a>
+Blog Page: <a href='https://www.cloudnest.org/blog/'>https://www.cloudnest.org/blog/</a>
