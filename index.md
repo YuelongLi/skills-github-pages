@@ -34,18 +34,6 @@ layout: default
     {% endfor %}
   </div>
 
-<!-- Blog Section -->
-  <div id="blog">
-    <h1>Blog</h1>
-    {% for post in site.posts limit:5 %}
-      <div class="blog-post">
-        <h2>{{ post.title }}</h2>
-        <p>{{ post.excerpt }}</p>
-        <a href="{{ post.url }}">Read More</a>
-      </div>
-    {% endfor %}
-  </div>
-  
   <!-- Contact Information Section -->
   <div id="contact">
     <h1>Contact Me</h1>
