@@ -1,10 +1,5 @@
 <section id="about">
-  <h1>About Me</h1>
-  My interests range from computer graphics to quantum mechanics. My goal is to build 
-a sustainable future with technologies, or at least contemplating on this point... 
-Recently graduated from NYU.
+Recently graduated from NYU. I am interested in theoretical sociology and emergent systems, building transparent artificial intelligence, computer graphics and parallel computing, and physics formalisms. I believe extending the formalisms of theoretical physics can brdige the gap of unknowns in AI and predictive sociology, and am actively searching for opportunities to contribute to the fields.
 
-For my math related blogs, you can find them <a href='https://www.cloudnest.org/blog/'>here</a>.
-
-For my computer science related blogs please see below (in progress).
+For my <b>CS, Math, and Physics</b> blogs and random inspirations, you can find them at <a href='https://www.cloudnest.org/blog/' style='color:#123ac4'>cloudnest.org</a>. 
 </section>
