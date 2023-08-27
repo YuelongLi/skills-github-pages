@@ -34,7 +34,7 @@ layout: default
       {% assign sorted_portfolio = site.portfolio | sort:"order" %}
       {% for item in sorted_portfolio %}
     <div class="portfolio-item">
-        <h2><a href="{{ site.baseurl }}{{ item.redirect }}">{{ item.title }}</a></h2>
+        <h2><a href="{{ item.redirect }}">{{ item.title }}</a></h2>
         <img src="{{ item.image }}" alt="{{ item.title }}">
         <p>{{ item.content | strip_html | truncate:160 }}</p>
     </div>
