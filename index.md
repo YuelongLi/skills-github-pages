@@ -21,7 +21,6 @@ layout: default
     <h1>Papers</h1>
   <ul>
     <li><a href="assets/papers/Spontaneous_Synchronization_in_Cellular_Circadian_Clocks.pdf">Spontaneous Synchronization in Cellular Circadian Clocks</a></li>
-    <li><a href="assets/papers/Adversarial_Image_Recognition.pdf">Adversarial Image Recognition</a></li>
     <li><a href="assets/papers/A_general_graph_based_method_for_resource_optimization.pdf">A General Graph Based Method for Resource Optimization</a></li>
     <li><a href="assets/papers/Dynamics_of_Axially_Coupled_Rotor_Pair.pdf">Dynamics of Axially Coupled Rotor Pairs</a></li>
     <li><a href="assets/papers/ML_Music_Recognition.pdf">Music Genre Classification with CNN</a></li>
