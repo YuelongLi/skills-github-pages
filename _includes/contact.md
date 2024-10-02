@@ -1,4 +1,4 @@
-Email: <a>yuelong[dot]edu[at]gmail[dot]com</a> <br/>
+Email: <a>yuelongli[dot]c[at]gmail[dot]com</a> <br/>
 
 LinkedIn: <a href='https://www.linkedin.com/in/yuelong-li'>https://www.linkedin.com/in/yuelong-li</a> <br/>
 
